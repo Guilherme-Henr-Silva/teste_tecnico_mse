@@ -17,6 +17,16 @@
 
 http://localhost/teste_tecnico_mse
 
+## Banco de dados
+
+O dump do banco está disponível na pasta database.
+Para importar:
+
+1. Acessar phpMyAdmin
+2. Criar banco fornecedores_db
+3. Ir em Importar
+4. Selecionar o arquivo fornecedores_db.sql
+
 ### Tecnologias que foram utilizadas
 ``PHP``  
 ``MySQL``  
